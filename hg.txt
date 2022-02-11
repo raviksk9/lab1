@@ -1,1 +1,3 @@
-l
+git add
+git commit -m "fiit"
+git push
